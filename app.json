@@ -1,0 +1,22 @@
+{
+    "name": "john",
+    "description": "john.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "89caabb2-d589-44cc-8c16-1e80628339ab"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/Account/repo/",
+    "repository": "https://github.com/Account/repo",
+    "stack": "container"
+}
